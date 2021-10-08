@@ -1,0 +1,84 @@
+body{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1{
+               color:skyblue;
+               font-size: 40px;
+               text-shadow: 2px 2px 5px blue;
+}
+p{
+	color:darkblue;
+	font-size: 20px;
+}
+h6{outline-color: darkblue;}
+h6.double{outline-style: double;}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h2{
+	color: grey;
+	font-size: 28px;
+}
+
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h3{
+	text-align: center;
+	color: grey;
+	font-size: 30px;
+}
+p{
+	text-align: center;
+}
+.otherp{
+	color: darkblue;
+}
+.otherr{
+	color: darkblue;
+}
+
+}
+
+
+#gallery{
+	list-style: none;
+}
+
+
+#gallery li{
+	display: inline-table;
+	padding: 10px;
+}
+gallery{
+	text-align: center;
+}
+h4{
+	text-align: center;
+	color: grey;
+	font-size: 30px;
+}
+h5{
+	text-align: center;
+	color: dodgerblue;
+	font-size: 18px;
+}
+p{
+	text-align: center;
+}
+.othere:{
+	color: lightblue;
+	font-size: 15px;
+}
+h6{
+	text-align: center;
+	color: black;
+	font-size: 25px;
+}
